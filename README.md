@@ -69,11 +69,10 @@ Currently   : Building products • Open to Freelance / Full-time
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Project Name 1** | Short description of what this project does | React, Node.js, MongoDB |
-| **Project Name 2** | Short description of what this project does | React Native, Firebase |
-| **Project Name 3** | Short description of what this project does | Python, OpenCV |
+| **Smart Task Manager** | Full-stack task management web app with real-time updates, authentication, and dashboard | React, Node.js, MongoDB, Express |
+| **Cross-Platform Expense Tracker** | Mobile app to track daily expenses with charts, categories, and cloud sync | React Native, Firebase, Chart.js |
+| **AI Image Analyzer** | Computer vision tool that detects and classifies objects in images using deep learning | Python, OpenCV, TensorFlow Lite |
 
-> Replace the project names and descriptions with your real projects.
 
 ---
 
