@@ -1,4 +1,3 @@
-```markdown
 # <p align="center">👋 Hi, I'm Jawad Ahmad</p>
 
 <p align="center">
@@ -22,15 +21,15 @@
 
 ```yaml
 Name        : Jawad Ahmad
-Role        : Full-Stack & App Developer
+Role        : Full-Stack and App Developer
 Location    : Pakistan
-Education   : BS Mathematics — University of Okara
+Education   : BS Mathematics - University of Okara
 
 Focus Areas :
-  - Mobile & Web Apps (MERN • React Native • Flutter)
-  - Python Automation, Scripting & AI Tools
+  - Mobile and Web Apps (MERN, React Native, Flutter)
+  - Python Automation, Scripting and AI Tools
   - Computer Vision (OpenCV) + Modern UI/UX
-  - Clean Architecture & Performance
+  - Clean Architecture and Performance
 
 Currently   : Building products • Open to Freelance / Full-time
 ```
@@ -39,13 +38,13 @@ Currently   : Building products • Open to Freelance / Full-time
 
 ### What I Build
 
-| Category                | Focus                                                                 |
-|-------------------------|-----------------------------------------------------------------------|
-| 📱 Mobile Apps          | React Native • Flutter • Firebase — Cross-platform, real-time apps    |
-| 🌐 Web Development      | MERN Stack • Django • Next.js — Fast, secure & scalable products      |
-| 🐍 Python & Automation  | Scripting • Scraping • Workflow tools that save hours                 |
-| 🤖 AI & Computer Vision | OpenCV • TensorFlow Lite — Smart image & vision features              |
-| 🗄️ Backend & Databases  | Node • PostgreSQL • MongoDB — Optimized schemas & APIs                |
+| Category                | Focus                                                              |
+|-------------------------|--------------------------------------------------------------------|
+| 📱 Mobile Apps          | React Native, Flutter, Firebase - Cross-platform real-time apps    |
+| 🌐 Web Development      | MERN Stack, Django, Next.js - Fast, secure and scalable products   |
+| 🐍 Python and Automation| Scripting, Scraping, Workflow tools that save hours                |
+| 🤖 AI and Computer Vision| OpenCV, TensorFlow Lite - Smart image and vision features         |
+| 🗄️ Backend and Databases| Node, PostgreSQL, MongoDB - Optimized schemas and APIs             |
 
 ---
 
