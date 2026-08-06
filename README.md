@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Full-Stack+Web+%26+Mobile+Developer;Python+Automation+%26+AI+Tools;Open+to+Freelance+%26+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+and+Mobile+Developer;Python+Automation+and+AI+Tools;Open+to+Freelance+and+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,20 +78,20 @@ Currently   : Building products • Open to Freelance / Full-time
 ### Live GitHub Stats (Auto Updates)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadliaqat-dot&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadliaqat-dot&theme=radical&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadliaqat-dot&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Live)" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadliaqat-dot&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" height="300" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ Currently   : Building products • Open to Freelance / Full-time
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
