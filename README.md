@@ -1,7 +1,8 @@
+```markdown
 # <p align="center">👋 Hi, I'm Jawad Ahmad</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20AI%20Specialist&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20and%20AI%20Specialist&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
