@@ -36,42 +36,44 @@ Currently   : Building products • Open to Freelance / Full-time
 
 ---
 
+### Currently Working On
+
+- Building modern full-stack applications with **Next.js + Node.js**
+- Creating cross-platform mobile apps using **React Native**
+- Developing automation tools and scripts with **Python**
+- Learning and implementing **AI + Computer Vision** features
+
+---
+
 ### What I Build
 
-| Category                | Focus                                                              |
-|-------------------------|--------------------------------------------------------------------|
-| 📱 Mobile Apps          | React Native, Flutter, Firebase - Cross-platform real-time apps    |
-| 🌐 Web Development      | MERN Stack, Django, Next.js - Fast, secure and scalable products   |
-| 🐍 Python and Automation| Scripting, Scraping, Workflow tools that save hours                |
-| 🤖 AI and Computer Vision| OpenCV, TensorFlow Lite - Smart image and vision features         |
-| 🗄️ Backend and Databases| Node, PostgreSQL, MongoDB - Optimized schemas and APIs             |
+| Category                  | Focus                                                              |
+|---------------------------|--------------------------------------------------------------------|
+| 📱 Mobile Apps            | React Native, Flutter, Firebase - Cross-platform real-time apps    |
+| 🌐 Web Development        | MERN Stack, Django, Next.js - Fast, secure and scalable products   |
+| 🐍 Python and Automation  | Scripting, Scraping, Workflow tools that save hours                |
+| 🤖 AI and Computer Vision | OpenCV, TensorFlow Lite - Smart image and vision features          |
+| 🗄️ Backend and Databases  | Node, PostgreSQL, MongoDB - Optimized schemas and APIs             |
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react,nextjs,nodejs,django,reactnative,flutter,mongodb,postgres,firebase,docker,git,vscode" />
 </p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Project Name 1** | Short description of what this project does | React, Node.js, MongoDB |
+| **Project Name 2** | Short description of what this project does | React Native, Firebase |
+| **Project Name 3** | Short description of what this project does | Python, OpenCV |
+
+> Replace the project names and descriptions with your real projects.
 
 ---
 
@@ -99,7 +101,15 @@ Currently   : Building products • Open to Freelance / Full-time
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
