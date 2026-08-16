@@ -22,7 +22,7 @@
 Name       : Jawad Ahmad
 Role       : Full-Stack and App Developer
 Location   : Pakistan
-Education  : BS Mathematics — University of Okara
+Education  : BS Mathematics 
 Focus Areas:
   - Mobile and Web Apps (MERN, React Native)
   - Python Automation, Scripting and Cloud Tools
