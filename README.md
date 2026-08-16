@@ -1,11 +1,12 @@
-# <p align="center">👋 Hi, I'm Jawad Ahmad</p>
+Yeh lo **full English README** — same animated style, lekin **sirf real projects**, clean aur impressive.
 
+```markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20and%20AI%20Specialist&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+and+Mobile+Developer;Python+Automation+and+AI+Tools;Open+to+Freelance+and+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+and+Mobile+Developer;Python+Automation+and+Cloud+Tools;Open+to+Freelance+and+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,18 +21,15 @@
 ### About Me
 
 ```yaml
-Name        : Jawad Ahmad
-Role        : Full-Stack and App Developer
-Location    : Pakistan
-Education   : BS Mathematics - University of Okara
-
-Focus Areas :
-  - Mobile and Web Apps (MERN, React Native, Flutter)
-  - Python Automation, Scripting and AI Tools
-  - Computer Vision (OpenCV) + Modern UI/UX
-  - Clean Architecture and Performance
-
-Currently   : Building products • Open to Freelance / Full-time
+Name       : Jawad Ahmad
+Role       : Full-Stack & App Developer
+Location   : Pakistan
+Education  : BS Mathematics — University of Okara
+Focus Areas:
+  - Mobile & Web Apps (MERN, React Native)
+  - Python Automation, Scripting & Cloud Tools
+  - Clean Architecture and Modern UI/UX
+Currently  : Building products • Open to Freelance / Full-time
 ```
 
 ---
@@ -40,43 +38,42 @@ Currently   : Building products • Open to Freelance / Full-time
 
 - Building modern full-stack applications with **Next.js + Node.js**
 - Creating cross-platform mobile apps using **React Native**
-- Developing automation tools and scripts with **Python**
-- Learning and implementing **AI + Computer Vision** features
+- Developing automation tools and cloud products with **Python**
+- Shipping real tools people can use (not just demos)
 
 ---
 
 ### What I Build
 
-| Category                  | Focus                                                              |
-|---------------------------|--------------------------------------------------------------------|
-| 📱 Mobile Apps            | React Native, Flutter, Firebase - Cross-platform real-time apps    |
-| 🌐 Web Development        | MERN Stack, Django, Next.js - Fast, secure and scalable products   |
-| 🐍 Python and Automation  | Scripting, Scraping, Workflow tools that save hours                |
-| 🤖 AI and Computer Vision | OpenCV, TensorFlow Lite - Smart image and vision features          |
-| 🗄️ Backend and Databases  | Node, PostgreSQL, MongoDB - Optimized schemas and APIs             |
+| Category | Focus |
+|----------|--------|
+| 📱 Mobile Apps | React Native, Flet, Firebase — cross-platform apps |
+| 🌐 Web Development | MERN, Next.js, FastAPI — fast and practical products |
+| 🐍 Python & Automation | Scripting, workflows, cloud rendering tools |
+| 🗄️ Backend & Databases | Node, FastAPI, MongoDB, PostgreSQL |
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react,nextjs,nodejs,django,reactnative,flutter,mongodb,postgres,firebase,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,vscode" />
 </p>
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Smart Task Manager** | Full-stack task management web app with real-time updates, authentication, and dashboard | React, Node.js, MongoDB, Express |
-| **Cross-Platform Expense Tracker** | Mobile app to track daily expenses with charts, categories, and cloud sync | React Native, Firebase, Chart.js |
-| **AI Image Analyzer** | Computer vision tool that detects and classifies objects in images using deep learning | Python, OpenCV, TensorFlow Lite |
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Renderora** | Cloud animation platform — write Manim / Matplotlib code in the browser and render videos & plots online | FastAPI, Manim, Matplotlib, Docker | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
+| **CineFetch Pro** | Lightweight Android video downloader with a clean native-style UI | Python, Flet, Android | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
 
+> More production-ready projects coming soon.
 
 ---
 
-### Live GitHub Stats (Auto Updates)
+### Live GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -101,14 +98,6 @@ Currently   : Building products • Open to Freelance / Full-time
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -140,3 +129,5 @@ Currently   : Building products • Open to Freelance / Full-time
   Feel free to reach out if you have a project or opportunity.
 </p>
 ```
+
+---
