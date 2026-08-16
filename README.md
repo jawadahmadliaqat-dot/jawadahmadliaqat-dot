@@ -1,6 +1,4 @@
-Yeh lo **full English README** — same animated style, lekin **sirf real projects**, clean aur impressive.
 
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
 </p>
