@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20and%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@
 
 ```yaml
 Name       : Jawad Ahmad
-Role       : Full-Stack & App Developer
+Role       : Full-Stack and App Developer
 Location   : Pakistan
 Education  : BS Mathematics — University of Okara
 Focus Areas:
-  - Mobile & Web Apps (MERN, React Native)
-  - Python Automation, Scripting & Cloud Tools
+  - Mobile and Web Apps (MERN, React Native)
+  - Python Automation, Scripting and Cloud Tools
   - Clean Architecture and Modern UI/UX
 Currently  : Building products • Open to Freelance / Full-time
 ```
@@ -47,8 +47,8 @@ Currently  : Building products • Open to Freelance / Full-time
 |----------|--------|
 | 📱 Mobile Apps | React Native, Flet, Firebase — cross-platform apps |
 | 🌐 Web Development | MERN, Next.js, FastAPI — fast and practical products |
-| 🐍 Python & Automation | Scripting, workflows, cloud rendering tools |
-| 🗄️ Backend & Databases | Node, FastAPI, MongoDB, PostgreSQL |
+| 🐍 Python and Automation | Scripting, workflows, cloud rendering tools |
+| 🗄️ Backend and Databases | Node, FastAPI, MongoDB, PostgreSQL |
 
 ---
 
@@ -64,7 +64,7 @@ Currently  : Building products • Open to Freelance / Full-time
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Renderora** | Cloud animation platform — write Manim / Matplotlib code in the browser and render videos & plots online | FastAPI, Manim, Matplotlib, Docker | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
+| **Renderora** | Cloud animation platform — write Manim / Matplotlib code in the browser and render videos and plots online | FastAPI, Manim, Matplotlib, Docker | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
 | **CineFetch Pro** | Lightweight Android video downloader with a clean native-style UI | Python, Flet, Android | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
 
 > More production-ready projects coming soon.
@@ -129,3 +129,4 @@ Currently  : Building products • Open to Freelance / Full-time
 ```
 
 ---
+
