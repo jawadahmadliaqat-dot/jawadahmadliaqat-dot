@@ -16,7 +16,7 @@
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name : Jawad Ahmad
@@ -24,36 +24,36 @@ Role : Full-Stack and App Developer
 Location : Pakistan
 Education : BS Mathematics
 Focus Areas:
-  - Mobile and Web Apps (MERN, React Native, FastAPI)
-  - Python Automation, Scripting and Cloud Tools
-  - Clean Architecture and Modern UI/UX
+  - Mobile & Web Apps (MERN, React Native, FastAPI)
+  - Python Automation, Cloud Tools
+  - Clean Architecture & Modern UI/UX
 Currently : Shipping real products • Open to Freelance / Full-time
 ```
 
 ---
 
-### Currently Working On
+## 🔥 Currently Working On
 
-- Building full-stack products with **FastAPI**, **MongoDB**, and modern web UIs
-- Creating cross-platform mobile apps using **React Native** and **Flet**
-- Developing automation tools and cloud-hosted apps with **Python**
-- Shipping usable tools with live demos — not only local prototypes
+- Full-stack products with **FastAPI**, **MongoDB**, modern UIs  
+- Cross-platform mobile apps using **React Native** & **Flet**  
+- Automation tools & cloud-hosted apps with **Python**  
+- Shipping usable tools with live demos — not just prototypes  
 
 ---
 
-### What I Build
+## 🛠️ What I Build
 
 | Category | Focus |
 |----------|--------|
-| 📱 Mobile Apps | React Native, Flet, Firebase — cross-platform apps |
-| 🌐 Web Development | MERN, Next.js, FastAPI — practical products |
-| 🐍 Python and Automation | Scripting, workflows, cloud tools |
-| 🗄️ Backend and Databases | FastAPI, Node, MongoDB, PostgreSQL |
-| 🧩 Browser Extensions | Chrome Manifest V3 integrations |
+| 📱 Mobile Apps | React Native, Flet, Firebase |
+| 🌐 Web Development | MERN, Next.js, FastAPI |
+| 🐍 Python Automation | Scripting, workflows, cloud tools |
+| 🗄️ Backend | FastAPI, Node, MongoDB, PostgreSQL |
+| 🧩 Extensions | Chrome Manifest V3 integrations |
 
 ---
 
-### Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,vscode" />
@@ -61,17 +61,17 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 
-### Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **ApplyPulse** | Job application tracker with a web dashboard and Chrome extension — one-click save from LinkedIn, Indeed, and other job pages, then manage status, filters, kanban view, and exports | FastAPI, MongoDB, JWT, Chrome Extension, Tailwind | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
-| **Renderora** | Cloud animation platform — write Manim / Matplotlib code in the browser and render videos and plots online | FastAPI, Manim, Matplotlib, Docker | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
-| **CineFetch Pro** | Lightweight Android video downloader with a clean native-style UI | Python, Flet, Android | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
+| **ApplyPulse** | Job application tracker with dashboard + Chrome extension | FastAPI, MongoDB, JWT, Tailwind | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
+| **Renderora** | Cloud animation studio for Manim/Matplotlib | FastAPI, Docker, Manim, Matplotlib | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
+| **CineFetch Pro** | Lightweight Android video downloader | Python, Flet, Android, FFmpeg | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
 
 ---
 
-### Live GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -92,33 +92,31 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 
-### GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### Random Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-### Snake Contribution
+## 🐍 Snake Contribution Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/github-contribution-grid-snake.svg" />
 </div>
-
-> If the snake does not show yet, add the [snake contribution workflow](https://github.com/Platane/snk) to your profile repo, or remove this section.
 
 ---
 
-### Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/jawadahmadliaqat-dot">
@@ -134,15 +132,14 @@ Currently : Shipping real products • Open to Freelance / Full-time
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=100&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <b>Thanks for stopping by!</b><br>
-  Feel free to reach out if you have a project or opportunity.
+  <b>Thanks for visiting 🚀</b><br>
+  Let’s build something amazing together.
 </p>
 ```
-
