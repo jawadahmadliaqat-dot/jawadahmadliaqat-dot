@@ -111,7 +111,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 ## 🐍 Snake Contribution Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" />
 </div>
 
 ---
