@@ -19,25 +19,25 @@
 ### About Me
 
 ```yaml
-Name       : Jawad Ahmad
-Role       : Full-Stack and App Developer
-Location   : Pakistan
-Education  : BS Mathematics 
+Name : Jawad Ahmad
+Role : Full-Stack and App Developer
+Location : Pakistan
+Education : BS Mathematics
 Focus Areas:
-  - Mobile and Web Apps (MERN, React Native)
+  - Mobile and Web Apps (MERN, React Native, FastAPI)
   - Python Automation, Scripting and Cloud Tools
   - Clean Architecture and Modern UI/UX
-Currently  : Building products • Open to Freelance / Full-time
+Currently : Shipping real products • Open to Freelance / Full-time
 ```
 
 ---
 
 ### Currently Working On
 
-- Building modern full-stack applications with **Next.js + Node.js**
-- Creating cross-platform mobile apps using **React Native**
-- Developing automation tools and cloud products with **Python**
-- Shipping real tools people can use (not just demos)
+- Building full-stack products with **FastAPI**, **MongoDB**, and modern web UIs
+- Creating cross-platform mobile apps using **React Native** and **Flet**
+- Developing automation tools and cloud-hosted apps with **Python**
+- Shipping usable tools with live demos — not only local prototypes
 
 ---
 
@@ -46,9 +46,10 @@ Currently  : Building products • Open to Freelance / Full-time
 | Category | Focus |
 |----------|--------|
 | 📱 Mobile Apps | React Native, Flet, Firebase — cross-platform apps |
-| 🌐 Web Development | MERN, Next.js, FastAPI — fast and practical products |
-| 🐍 Python and Automation | Scripting, workflows, cloud rendering tools |
-| 🗄️ Backend and Databases | Node, FastAPI, MongoDB, PostgreSQL |
+| 🌐 Web Development | MERN, Next.js, FastAPI — practical products |
+| 🐍 Python and Automation | Scripting, workflows, cloud tools |
+| 🗄️ Backend and Databases | FastAPI, Node, MongoDB, PostgreSQL |
+| 🧩 Browser Extensions | Chrome Manifest V3 integrations |
 
 ---
 
@@ -64,10 +65,9 @@ Currently  : Building products • Open to Freelance / Full-time
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| **ApplyPulse** | Job application tracker with a web dashboard and Chrome extension — one-click save from LinkedIn, Indeed, and other job pages, then manage status, filters, kanban view, and exports | FastAPI, MongoDB, JWT, Chrome Extension, Tailwind | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
 | **Renderora** | Cloud animation platform — write Manim / Matplotlib code in the browser and render videos and plots online | FastAPI, Manim, Matplotlib, Docker | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
 | **CineFetch Pro** | Lightweight Android video downloader with a clean native-style UI | Python, Flet, Android | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
-
-> More production-ready projects coming soon.
 
 ---
 
@@ -127,6 +127,3 @@ Currently  : Building products • Open to Freelance / Full-time
   Feel free to reach out if you have a project or opportunity.
 </p>
 ```
-
----
-
