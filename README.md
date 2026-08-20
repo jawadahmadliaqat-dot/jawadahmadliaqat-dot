@@ -100,6 +100,24 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 
+### Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### Snake Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+> If the snake does not show yet, add the [snake contribution workflow](https://github.com/Platane/snk) to your profile repo, or remove this section.
+
+---
+
 ### Connect With Me
 
 <p align="center">
