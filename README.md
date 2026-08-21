@@ -95,7 +95,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -111,7 +111,11 @@ Currently : Shipping real products • Open to Freelance / Full-time
 ## 🐍 Snake Contribution Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
