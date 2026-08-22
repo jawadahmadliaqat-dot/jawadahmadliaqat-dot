@@ -42,8 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-
-<img align="right" alt="matrix code rain" width="280" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
+<img align="right" alt="code loop" width="300" src="https://media.giphy.com/media/V860v6u7XQz9t5y8D7/giphy.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
