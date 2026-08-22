@@ -32,12 +32,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawadahmadliaqat-dot&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/jawadahmadliaqat-dot?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat" alt="open to work" />
-</p>
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🔥 Currently Working On
 
