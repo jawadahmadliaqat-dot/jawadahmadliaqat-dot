@@ -40,11 +40,10 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Cross-platform mobile apps using **React Native** & **Flet**  
 - Automation tools & cloud-hosted apps with **Python**  
 - Shipping usable tools with live demos — not just prototypes  
-
+<img align="right" alt="synthwave coder" width="300" src="https://media.giphy.com/media/VdhTY45892APdSEjVT/giphy.gif" />
 ---
 ## 🛠️ What I Build
 
-<img align="right" alt="3d setup" width="300" src="https://cdn.dribbble.com/users/2130338/screenshots/7583921/media/e48f1f7e0ed4d59f77e6fcbdce203494.gif" />
 | Category | Focus |
 |----------|--------|
 | 📱 Mobile Apps | React Native, Flet, Firebase |
