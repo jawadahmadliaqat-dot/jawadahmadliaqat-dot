@@ -43,7 +43,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 
-<img align="right" alt="synthwave coder" width="300" src="https://media.giphy.com/media/VdhTY45892APdSEjVT/giphy.gif" />
+<img align="right" alt="matrix code rain" width="280" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
