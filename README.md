@@ -42,9 +42,9 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="3d setup" width="300" src="https://cdn.dribbble.com/users/2130338/screenshots/7583921/media/e48f1f7e0ed4d59f77e6fcbdce203494.gif" />
 ## 🛠️ What I Build
 
+<img align="right" alt="3d setup" width="300" src="https://cdn.dribbble.com/users/2130338/screenshots/7583921/media/e48f1f7e0ed4d59f77e6fcbdce203494.gif" />
 | Category | Focus |
 |----------|--------|
 | 📱 Mobile Apps | React Native, Flet, Firebase |
