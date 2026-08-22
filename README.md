@@ -42,7 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="coding setup" width="300" src="https://cdn.dribbble.com/users/1059586/screenshots/14227818/media/be8a9840d0e659c0be0ee992224dbe30.gif" />
+<img align="right" alt="developer" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
