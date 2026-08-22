@@ -40,8 +40,10 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Cross-platform mobile apps using **React Native** & **Flet**  
 - Automation tools & cloud-hosted apps with **Python**  
 - Shipping usable tools with live demos — not just prototypes  
-<img align="right" alt="synthwave coder" width="300" src="https://media.giphy.com/media/VdhTY45892APdSEjVT/giphy.gif" />
+
 ---
+
+<img align="right" alt="synthwave coder" width="300" src="https://media.giphy.com/media/VdhTY45892APdSEjVT/giphy.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
