@@ -1,9 +1,36 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />, I'm Jawad Ahmad</h1>
-<h3 align="center">Full-Stack & App Developer | Python • FastAPI • Mobile</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20and%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=I+build+real+products+people+can+use;FastAPI+%7C+MongoDB+%7C+Chrome+Extensions;Open+to+Freelance+and+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+and+Mobile+Developer;Python+Automation+and+Cloud+Tools;Open+to+Freelance+and+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jawadahmadliaqat-dot&color=0e75b6&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/jawadahmadliaqat-dot?label=Followers&style=for-the-badge&color=ff6b35" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/jawadahmadliaqat-dot?style=for-the-badge&label=Total+Stars&color=yellow" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name : Jawad Ahmad
+Role : Full-Stack and App Developer
+Location : Pakistan
+Education : BS Mathematics
+Focus Areas:
+  - Mobile & Web Apps (MERN, React Native, FastAPI)
+  - Python Automation, Cloud Tools
+  - Clean Architecture & Modern UI/UX
+Currently : Shipping real products • Open to Freelance / Full-time
+```
+
+---
 </p>
 
 <p align="center">
@@ -12,87 +39,117 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat" alt="open to work" />
 </p>
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 🔥 Currently Working On
 
-- 🔭 I’m currently working on **[ApplyPulse](https://applypulse.onrender.com)**
-- 🌱 I’m currently learning system design and Next.js
-- 👯 I’m looking to collaborate on full-stack apps and Python tools
-- 🤝 I’m looking for help with UI polish and testing
-- 👨‍💻 All of my projects: [github.com/jawadahmadliaqat-dot](https://github.com/jawadahmadliaqat-dot)
-- 💬 Ask me about **Python, FastAPI, MongoDB, Flet, Chrome extensions**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/m-jawad-ahmad-124b84234/) · [Upwork](https://www.upwork.com/freelancers/~015a0ac07f798420ea)
-- ⚡ Fun fact: I shipped ApplyPulse (API + dashboard + extension) in **3 days**
-
-<br clear="both" />
+- Full-stack products with **FastAPI**, **MongoDB**, modern UIs  
+- Cross-platform mobile apps using **React Native** & **Flet**  
+- Automation tools & cloud-hosted apps with **Python**  
+- Shipping usable tools with live demos — not just prototypes  
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ What I Build
+
+| Category | Focus |
+|----------|--------|
+| 📱 Mobile Apps | React Native, Flet, Firebase |
+| 🌐 Web Development | MERN, Next.js, FastAPI |
+| 🐍 Python Automation | Scripting, workflows, cloud tools |
+| 🗄️ Backend | FastAPI, Node, MongoDB, PostgreSQL |
+| 🧩 Extensions | Chrome Manifest V3 integrations |
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <a href="https://github.com/jawadahmadliaqat-dot/ApplyPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadliaqat-dot&repo=ApplyPulse&theme=tokyonight&hide_border=true" alt="ApplyPulse" />
-  </a>
-  <a href="https://github.com/jawadahmadliaqat-dot/Renderora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadliaqat-dot&repo=Renderora&theme=tokyonight&hide_border=true" alt="Renderora" />
-  </a>
-</p>
-
-| Project | Description | Links |
-|---------|-------------|--------|
-| **ApplyPulse** | Job tracker with dashboard + Chrome extension | [Live](https://applypulse.onrender.com) · [Code](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
-| **Renderora** | Cloud Manim / Matplotlib render studio | [Live](https://renderora.onrender.com) · [Code](https://github.com/jawadahmadliaqat-dot/Renderora) |
-| **CineFetch Pro** | Android video downloader (Flet) | [Code](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/jawadahmadliaqat-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/m-jawad-ahmad-124b84234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,vscode" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **ApplyPulse** | Job application tracker with dashboard + Chrome extension | FastAPI, MongoDB, JWT, Tailwind | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
+| **Renderora** | Cloud animation studio for Manim/Matplotlib | FastAPI, Docker, Manim, Matplotlib | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
+| **CineFetch Pro** | Lightweight Android video downloader | Python, Flet, Android, FFmpeg | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadliaqat-dot&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadliaqat-dot&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" height="300" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-languages?username=jawadahmadliaqat-dot&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadliaqat-dot&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
-</p>
+## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
+---
+
+## 🐍 Snake Contribution Animation
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" alt="snake" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot/output/snake.svg" alt="Snake animation" />
   </picture>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jawadahmadliaqat-dot">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~015a0ac07f798420ea">
+    <img src="https://img.shields.io/badge/Upwork-Available-brightgreen?style=for-the-badge&logo=upwork" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/m-jawad-ahmad-124b84234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=100&section=footer&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting 🚀</b><br>
+  Let’s build something amazing together.
+</p>
