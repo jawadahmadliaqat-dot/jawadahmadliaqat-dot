@@ -42,7 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="workspace" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" alt="cool coding" width="300" src="https://media.giphy.com/media/uVOTBoXYNDdb4vW92Z/giphy.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
