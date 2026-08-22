@@ -42,7 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="developer" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="workspace" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
@@ -94,11 +94,6 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawadahmadliaqat-dot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
 
 ---
 
