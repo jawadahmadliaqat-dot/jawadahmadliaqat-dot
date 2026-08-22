@@ -42,7 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="cool coding" width="300" src="https://media.giphy.com/media/uVOTBoXYNDdb4vW92Z/giphy.gif" />
+<img align="right" alt="lofi coder" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
