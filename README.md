@@ -42,7 +42,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 - Shipping usable tools with live demos — not just prototypes  
 
 ---
-<img align="right" alt="matrix rain" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" alt="workspace" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 ## 🛠️ What I Build
 
 | Category | Focus |
