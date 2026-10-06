@@ -1,10 +1,9 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20and%20App%20Builder&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=220&section=header&text=Jawad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=WordPress%20%26%20WooCommerce%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+and+Mobile+Developer;Python+Automation+and+Cloud+Tools;Open+to+Freelance+and+Full-Time+Roles;Building+real+products+every+week" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=WordPress+%26+WooCommerce+Developer;ProdPilot+%E2%80%94+Free+WC+Product+Manager;NexusGear+%E2%80%94+Live+WooCommerce+Store;Open+to+Freelance+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,36 +19,39 @@
 
 ```yaml
 Name : Jawad Ahmad
-Role : Full-Stack and App Developer
+Role : WordPress & WooCommerce Developer (Full-Stack)
 Location : Pakistan
 Education : BS Mathematics
 Focus Areas:
-  - Mobile & Web Apps (MERN, React Native, FastAPI)
-  - Python Automation, Cloud Tools
-  - Clean Architecture & Modern UI/UX
+  - WordPress, WooCommerce, Elementor, PHP
+  - Custom plugins & storefront customization
+  - Full-stack web & mobile apps (MERN, React Native, FastAPI)
+  - Python automation & cloud tools
 Currently : Shipping real products • Open to Freelance / Full-time
 ```
 
 ---
-</p>
+
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🔥 Currently Working On
 
-- Full-stack products with **FastAPI**, **MongoDB**, modern UIs  
-- Cross-platform mobile apps using **React Native** & **Flet**  
-- Automation tools & cloud-hosted apps with **Python**  
-- Shipping usable tools with live demos — not just prototypes  
+- **ProdPilot** — free WooCommerce one-screen product publisher, **under review at WordPress.org**
+- **NexusGear** — live WooCommerce tech-accessories store ([nexusgear.site.je](https://nexusgear.site.je))
+- Client WordPress builds — custom themes, store setups & plugin work
+- Full-stack products with **FastAPI**, **MongoDB**, modern UIs
 
 ---
-</p>
+
 <img align="right" alt="workspace" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 ## 🛠️ What I Build
 
 | Category | Focus |
 |----------|--------|
-| 📱 Mobile Apps | React Native, Flet, Firebase |
+| 🛒 WordPress & WooCommerce | Custom plugins, Elementor builds, store customization, PHP |
 | 🌐 Web Development | MERN, Next.js, FastAPI |
+| 📱 Mobile Apps | React Native, Flet, Firebase |
 | 🐍 Python Automation | Scripting, workflows, cloud tools |
 | 🗄️ Backend | FastAPI, Node, MongoDB, PostgreSQL |
 | 🧩 Extensions | Chrome Manifest V3 integrations |
@@ -59,7 +61,7 @@ Currently : Shipping real products • Open to Freelance / Full-time
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,vscode" />
 </p>
 
 ---
@@ -68,9 +70,11 @@ Currently : Shipping real products • Open to Freelance / Full-time
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| **ProdPilot** | Free WooCommerce one-screen product publisher & manager — under WordPress.org review | PHP, WordPress APIs, WooCommerce, jQuery | [Repo](https://github.com/jawadahmadliaqat-dot/PRODPILOT) |
+| **NexusGear** | Live WooCommerce tech-accessories store — dark "Enter the Grid" storefront | WordPress, WooCommerce, Astra, CSS | [Live](https://nexusgear.site.je) · [Repo](https://github.com/jawadahmadliaqat-dot/NEXUSGEAR) |
+| **Afumado** | Luxury real-estate brokerage demo site | WordPress, Elementor, Astra, ACF | [Repo](https://github.com/jawadahmadliaqat-dot/afumado-luxury-realestate) |
 | **ApplyPulse** | Job application tracker with dashboard + Chrome extension | FastAPI, MongoDB, JWT, Tailwind | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
 | **Renderora** | Cloud animation studio for Manim/Matplotlib | FastAPI, Docker, Manim, Matplotlib | [Live](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
-| **CineFetch Pro** | Lightweight Android video downloader | Python, Flet, Android, FFmpeg | [Repo](https://github.com/jawadahmadliaqat-dot/CineFetch-Pro) |
 
 ---
 
@@ -92,9 +96,6 @@ Currently : Shipping real products • Open to Freelance / Full-time
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadliaqat-dot&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" height="300" />
 </div>
-
----
-
 
 ---
 
