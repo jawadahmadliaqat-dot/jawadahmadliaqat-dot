@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=220&section=header&text=Jawad%20Ahmad&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=WordPress%20%26%20WooCommerce%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=220&section=header&text=Jawad%20Ahmad&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=WordPress%20%26%20WooCommerce%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=60" width="100%" alt="Jawad Ahmad" />
 </p>
 
 <p align="center">
@@ -7,13 +7,11 @@
 </p>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-
+  <img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
 <div align="center">
@@ -37,48 +35,39 @@ Results-driven Full-Stack Developer specializing in WordPress, WooCommerce, and 
 
 ## 🏆 Featured Work
 
-### **[ProdPilot](https://github.com/jawadahmadliaqat-dot/PRODPILOT)** — Free WooCommerce Product Manager
-
+### [ProdPilot](https://github.com/jawadahmadliaqat-dot/PRODPILOT)
 Free WooCommerce product publisher and manager for store teams.
 
 - One-screen product publishing workflow
 - Bulk product upload and automation
-- **Saves store managers 10+ hours per week**
+- Saves store managers 10+ hours per week
 - Built for WordPress/WooCommerce efficiency
-- **Status:** Submitted to WordPress.org Official Directory
+- Status: Submitted to WordPress.org official directory
 
-**Tech:** PHP, WordPress APIs, WooCommerce, jQuery
+Tech: PHP, WordPress APIs, WooCommerce, jQuery
 
 ---
 
-### **[NexusGear](https://nexusgear.site.je)** — Live Revenue Store
-
+### [NexusGear](https://nexusgear.site.je)
 Live WooCommerce tech accessories store with premium storefront and conversion-focused UX.
 
 - Custom dark storefront
-- **Sub-2s load time, 98+ Lighthouse score**
 - Active revenue-generating operation
 - WooCommerce optimization & automation
-- **Result:** +32% conversion improvement
+- Result: +32% conversion improvement
 
-**Tech:** WordPress, WooCommerce, Astra, Stripe, PayPal
-
-**Live:** [nexusgear.site.je](https://nexusgear.site.je)
+Tech: WordPress, WooCommerce, Astra, Stripe, PayPal
 
 ---
 
-### **[ApplyPulse](https://applypulse.onrender.com)** — Full-Stack SaaS App
+### [ApplyPulse](https://applypulse.onrender.com)
+Full-stack job application tracker with dashboard and Chrome browser extension.
 
-Job application tracker with dashboard and Chrome browser extension.
-
-- **500+ active users** with sustained growth
-- Dashboard + extension real-time sync
+- 500+ active users with sustained growth
 - FastAPI backend, MongoDB, JWT auth
-- Built for speed and user value
+- Dashboard + extension real-time sync
 
-**Tech:** FastAPI, MongoDB, React, JWT, Tailwind
-
-**Live:** [applypulse.onrender.com](https://applypulse.onrender.com)
+Tech: FastAPI, MongoDB, React, JWT, Tailwind
 
 ---
 
@@ -87,8 +76,8 @@ Job application tracker with dashboard and Chrome browser extension.
 ### WordPress & WooCommerce
 - Custom plugin development
 - WooCommerce store setup & optimization
-- Performance tuning (Core Web Vitals, speed)
-- Security hardening & compliance
+- Performance tuning
+- Security hardening
 - Payment & API integrations
 - Theme & Elementor builds
 
@@ -99,12 +88,6 @@ Job application tracker with dashboard and Chrome browser extension.
 - React Native mobile apps
 - Database design & optimization
 - CI/CD & cloud deployment
-
-### Engagement Models
-- **Project-based:** $1,500-8,000+
-- **Hourly:** $40-70/hour
-- **Retainer:** $1,200-3,000/month
-- **White-label:** Agency pricing available
 
 ---
 
@@ -149,15 +132,13 @@ Job application tracker with dashboard and Chrome browser extension.
 ## 🔗 Connect Elsewhere
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat-square&logo=github)](https://github.com/jawadahmadliaqat-dot)
-•
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jawad-ahmad-b66972378/)
-•
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-00a699?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01f5493a45dcda2f9b)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff006e,8338ec,3a86ff,06B6D4&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff006e,8338ec,3a86ff,06B6D4&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </p>
 
 <p align="center">
