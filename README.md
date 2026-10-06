@@ -1,148 +1,129 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=220&section=header&text=Jawad%20Ahmad&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=WordPress%20%26%20WooCommerce%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=60" width="100%" alt="Jawad Ahmad" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Jawad%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=WordPress%20%7C%20WooCommerce%20%7C%20Full-Stack&descSize=18&descAlignY=62" width="100%" alt="Jawad Ahmad" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=ff006e&center=true&vCenter=true&width=900&lines=WordPress+%26+WooCommerce+Specialist;Custom+Plugins+%26+Store+Automation;Full-Stack+MERN+%7C+FastAPI+%7C+React+Native;ProdPilot+Creator+%7C+NexusGear+Founder;Building+High-Impact+Commerce+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=WordPress+%26+WooCommerce+Developer;Custom+Plugins+%26+Store+Builds;FastAPI+%7C+Python+%7C+Full-Stack;Building+real+products" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-Stores-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge" alt="Available" />
+</p>
 
-<div align="center">
-  <strong>Available for Full-Time | Contract | Retainer | Agency Partnership</strong><br>
-  <strong>Based in Pakistan (PKT/UTC+5) • 24h Response Guarantee • 5+ Years Experience</strong>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Results-driven Full-Stack Developer specializing in WordPress, WooCommerce, and modern SaaS products. I build high-converting storefronts, custom plugins, and scalable digital products for businesses that need speed, quality, and reliability.
-
-- 🛒 WordPress & WooCommerce Specialist
-- 🔌 Custom Plugin & Store Automation
-- 🚀 Full-Stack Web & Mobile Solutions
-- ⚡ FastAPI, MERN, React Native, Firebase
-- 💼 Available for freelance, contract, and long-term work
+<p align="center">
+  <b>Open to Full-Time · Contract · Freelance</b><br>
+  Pakistan (PKT) · Fast response
+</p>
 
 ---
 
-## 🏆 Featured Work
+## About Me
+
+Full-stack developer focused on **WordPress / WooCommerce stores** and **Python backends**.  
+I ship usable products: storefronts, plugins, dashboards, and APIs — not just demos.
+
+- WordPress & WooCommerce store builds  
+- Custom plugins & store workflows  
+- FastAPI / Python backends  
+- Clean UI and conversion-focused layouts  
+
+---
+
+## Featured Projects
 
 ### [ProdPilot](https://github.com/jawadahmadliaqat-dot/PRODPILOT)
-Free WooCommerce product publisher and manager for store teams.
+WooCommerce product publisher for store teams.
 
-- One-screen product publishing workflow
-- Bulk product upload and automation
-- Saves store managers 10+ hours per week
-- Built for WordPress/WooCommerce efficiency
-- Status: Submitted to WordPress.org official directory
+- Faster product publish workflow  
+- Built on WordPress & WooCommerce APIs  
+- Aimed at reducing manual catalog work  
 
-Tech: PHP, WordPress APIs, WooCommerce, jQuery
+**Tech:** PHP · WordPress · WooCommerce  
 
 ---
 
 ### [NexusGear](https://nexusgear.site.je)
-Live WooCommerce tech accessories store with premium storefront and conversion-focused UX.
+Premium gaming / tech accessories storefront.
 
-- Custom dark storefront
-- Active revenue-generating operation
-- WooCommerce optimization & automation
-- Result: +32% conversion improvement
+- Custom dark theme store  
+- Product catalog, categories, variations  
+- WooCommerce checkout-ready structure  
 
-Tech: WordPress, WooCommerce, Astra, Stripe, PayPal
-
----
-
-### [ApplyPulse](https://applypulse.onrender.com)
-Full-stack job application tracker with dashboard and Chrome browser extension.
-
-- 500+ active users with sustained growth
-- FastAPI backend, MongoDB, JWT auth
-- Dashboard + extension real-time sync
-
-Tech: FastAPI, MongoDB, React, JWT, Tailwind
+**Tech:** WordPress · WooCommerce · Astra  
 
 ---
 
-## 💼 Services
+### [ApplyPulse](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse)
+Job application tracker with web dashboard + Chrome extension.
 
-### WordPress & WooCommerce
-- Custom plugin development
-- WooCommerce store setup & optimization
-- Performance tuning
-- Security hardening
-- Payment & API integrations
-- Theme & Elementor builds
+- FastAPI backend + MongoDB  
+- JWT auth, job save from browser  
+- Live dashboard  
 
-### Full-Stack Development
-- MERN stack applications
-- FastAPI backend systems
-- React/Next.js frontend development
-- React Native mobile apps
-- Database design & optimization
-- CI/CD & cloud deployment
+**Tech:** FastAPI · MongoDB · JavaScript · Tailwind  
 
 ---
 
-## 🛠️ Tech Stack
+### [Renderora](https://renderora.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/Renderora)
+Cloud studio for Manim / Matplotlib animations.
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** PHP, Node.js, FastAPI, Python  
-**Database:** MySQL, MongoDB, PostgreSQL  
-**Mobile:** React Native, Firebase  
-**Tools:** Docker, GitHub Actions, AWS, Render
+- Code → render pipeline  
+- Docker-based deployment  
 
----
-
-## 📞 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧%20Email-jawadahmadliaqat@gmail.com-ff006e?style=for-the-badge&logo=gmail)](mailto:jawadahmadliaqat@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-%2B92%20349%207538860-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923497538860)
-
-[![Upwork](https://img.shields.io/badge/💼%20Upwork-Hire%20Me-00a699?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01f5493a45dcda2f9b)
-
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jawad-ahmad-b66972378/)
-
-</div>
+**Tech:** FastAPI · Python · Docker  
 
 ---
 
-## 📊 GitHub Stats
+## Services
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ff006e&title_color=8338ec" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&text_color=ff006e&title_color=8338ec" />
-</div>
+| WordPress / WooCommerce | Full-Stack |
+|-------------------------|------------|
+| Store setup & theme builds | FastAPI / Python APIs |
+| Product & catalog workflows | Dashboards & admin tools |
+| Performance & basic security | Auth, DB, deploy |
+| Payment & form integrations | Chrome extensions |
 
 ---
 
-## 🔗 Connect Elsewhere
+## Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat-square&logo=github)](https://github.com/jawadahmadliaqat-dot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jawad-ahmad-b66972378/)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-00a699?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01f5493a45dcda2f9b)
+**CMS / Commerce:** WordPress · WooCommerce · PHP  
+**Backend:** Python · FastAPI · Node  
+**Frontend:** HTML · Tailwind · React basics  
+**Data:** MySQL · MongoDB  
+**Deploy:** Render · Docker · GitHub  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:jawadahmadliaqat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/923497538860"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.upwork.com/freelancers/~01f5493a45dcda2f9b"><img src="https://img.shields.io/badge/Upwork-Hire-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.linkedin.com/in/jawad-ahmad-b66972378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff006e,8338ec,3a86ff,06B6D4&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=90&section=footer" width="100%" alt="Footer" />
 </p>
 
 <p align="center">
-  <strong>🌟 Ready to build something amazing?</strong><br>
-  <strong>Reach out via email, WhatsApp, or Upwork — let's talk about your project.</strong><br><br>
-  <strong>Status:</strong> 🟢 <strong>Actively Taking Projects</strong> | <strong>Response Time:</strong> ⚡ <strong>24 hours</strong>
+  <b>Thanks for visiting.</b><br>
+  Open to projects and full-time roles — reach out anytime.
 </p>
