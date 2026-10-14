@@ -1,111 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Jawad%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack+developer+%7C+WordPress+%26+Android+%7C+Python+%26+Mobile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=180&section=header&text=Jawad%20Ahmad&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=WordPress%20%26%20WooCommerce%20%7C%20Android%20%7C%20Python&descSize=16&descAlignY=68" width="100%" alt="Jawad Ahmad" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=WordPress+%26+WooCommerce+Developer;Android+%7C+Kotlin+%7C+Networking;Python+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=WordPress+%26+WooCommerce+Developer;Android+%7C+Kotlin+%7C+P2P+Networking;Python+%7C+FastAPI+%7C+Automation" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge" alt="Available" />
-</p>
-
----
-
-## Hi — I'm Jawad Ahmad
-
-Full-stack developer focusing on WordPress/WooCommerce, mobile (Android/Kotlin), and Python backends. I build production-ready plugins, storefronts, dashboards, and experimental mobile networking projects.
-
-Open to freelance, contract, and full-time opportunities.
-
----
-
-## Featured projects
-
-### ProdPilot — WordPress plugin (published)
-- Plugin page: https://wordpress.org/plugins/prodpilot/
-- Repo: https://github.com/jawadahmadliaqat-dot/PRODPILOT
-- What it does: a WooCommerce / product publishing helper to speed up catalog workflows and team publishing.
-- Tech: PHP · WordPress · WooCommerce
-
-### KAMUINET — Mobile P2P networking (Android)
-- Repo: https://github.com/jawadahmadliaqat-dot/KAMUINET
-- What it does: privacy-first P2P tunneling for Android using WebRTC data channels and Supabase signaling. Includes DB schema and optional Cloudflare Worker proxy.
-- Tech: Kotlin · WebRTC · Supabase (Postgres)
-
-### ApplyPulse — Job application tracker
-- Live: https://applypulse.onrender.com
-- Repo: https://github.com/jawadahmadliaqat-dot/ApplyPulse
-- What it does: automated job tracking with FastAPI backend, MongoDB storage, web dashboard and Chrome extension for capture.
-- Tech: Python · FastAPI · MongoDB · JavaScript
-
-### Renderora — Cloud animation platform
-- Live / Demo: https://jawadahmadliaqat-dot.github.io/Renderora/
-- Repo: https://github.com/jawadahmadliaqat-dot/Renderora
-- What it does: render orchestration for Manim/Matplotlib animations via a web UI and Docker-based workers.
-- Tech: Python · FastAPI · Docker
-
-### NexusGear — WooCommerce storefront
-- Live: https://nexusgear.site.je
-- Repo: https://github.com/jawadahmadliaqat-dot/NEXUSGEAR
-- What it does: demo premium ecommerce storefront built on WordPress / WooCommerce.
-- Tech: WordPress · WooCommerce · PHP · CSS
-
-### CineFetch-Pro — APK download front page
-- Repo: https://github.com/jawadahmadliaqat-dot/CineFetch-Pro
-- What it does: download landing site for CineFetch Pro APK (front-end portfolio project).
-- Tech: HTML · Static assets
-
-### Afumado Luxury Realestate — Portfolio front-end
-- Live: https://afumadoproperties.wuaze.com/
-- Repo: https://github.com/jawadahmadliaqat-dot/afumado-luxury-realestate
-- What it does: responsive luxury real estate concept site, valuation calculator demo.
-- Tech: HTML · JavaScript
-
----
-
-## All public repositories
-
-- PRODPILOT — https://github.com/jawadahmadliaqat-dot/PRODPILOT (WordPress plugin)
-- KAMUINET — https://github.com/jawadahmadliaqat-dot/KAMUINET (Android P2P networking)
-- ApplyPulse — https://github.com/jawadahmadliaqat-dot/ApplyPulse (Job tracker)
-- Renderora — https://github.com/jawadahmadliaqat-dot/Renderora (Animation platform)
-- NEXUSGEAR — https://github.com/jawadahmadliaqat-dot/NEXUSGEAR (WooCommerce store)
-- CineFetch-Pro — https://github.com/jawadahmadliaqat-dot/CineFetch-Pro (APK landing page)
-- afumado-luxury-realestate — https://github.com/jawadahmadliaqat-dot/afumado-luxury-realestate (Portfolio site)
-- jawadahmadliaqat-dot — https://github.com/jawadahmadliaqat-dot/jawadahmadliaqat-dot (this profile repo)
-
----
-
-## Tech & approach
-
-- CMS & Commerce: WordPress · WooCommerce · PHP
-- Backend & APIs: Python · FastAPI · Node.js
-- Mobile & Experiments: Android · Kotlin · WebRTC
-- Deployment: Render, Docker, GitHub Pages
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
+  <img src="https://img.shields.io/badge/WordPress.org-Plugin%20Author-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP" />
+  <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## Connect
+### About
 
-- Email: jawadahmadliaqat@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jawad-ahmad-b66972378/
-- Portfolio: https://jawadahmad.site.je
+I'm **Jawad Ahmad** — a developer focused on **WordPress / WooCommerce**, **Android (Kotlin)**, and **Python backends**.
+
+I ship real deliverables: a plugin on the official WordPress.org directory, live storefronts, and a mobile P2P networking project built around WebRTC and VpnService.
+
+Open to **freelance**, **contract**, and **full-time** roles.
+
+---
+
+### Featured work
+
+| Project | What it is | Links |
+|--------|------------|--------|
+| **ProdPilot** | WooCommerce product publisher — **live on WordPress.org** | [Plugin](https://wordpress.org/plugins/prodpilot/) · [Repo](https://github.com/jawadahmadliaqat-dot/PRODPILOT) |
+| **KamuiNet** | Android P2P internet sharing (WebRTC + VpnService + Supabase) | [Repo](https://github.com/jawadahmadliaqat-dot/KAMUINET) |
+| **NexusGear** | Live WooCommerce storefront (gaming / accessories) | [Live](https://nexusgear.site.je) · [Repo](https://github.com/jawadahmadliaqat-dot/NEXUSGEAR) |
+| **Afumado** | Luxury real-estate demo (listings + valuation tool) | [Live](https://afumadoproperties.wuaze.com) · [Repo](https://github.com/jawadahmadliaqat-dot/afumado-luxury-realestate) |
+| **ApplyPulse** | Job tracker API + dashboard + Chrome extension | [Live](https://applypulse.onrender.com) · [Repo](https://github.com/jawadahmadliaqat-dot/ApplyPulse) |
+| **Renderora** | Cloud UI for Manim / Matplotlib-style renders | [Repo](https://github.com/jawadahmadliaqat-dot/Renderora) |
+
+---
+
+### Stack
+
+**CMS & commerce** — WordPress · WooCommerce · PHP · Elementor  
+**Mobile** — Kotlin · WebRTC · VpnService · Supabase  
+**Backend** — Python · FastAPI · MongoDB · PostgreSQL  
+**Ship** — Docker · Render · GitHub · WordPress.org SVN  
+
+---
+
+### Achievements
+
+<p align="center">
+  <a href="https://github.com/jawadahmadliaqat-dot?achievement=yolo&tab=achievements">
+    <img src="https://img.shields.io/badge/YOLO-Unlocked%20·%20Oct%202026-f97316?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>“You want it? You merge it.” — unlocked on <a href="https://github.com/jawadahmadliaqat-dot/KAMUINET">KAMUINET</a></sub>
+</p>
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jawadahmadliaqat-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jawadahmadliaqat-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Languages" />
+</p>
+
+---
+
+### Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jawadahmad.site.je-0ea5e9?style=flat-square)](https://jawadahmad.site.je)
+[![GitHub](https://img.shields.io/badge/GitHub-jawadahmadliaqat--dot-181717?style=flat-square&logo=github)](https://github.com/jawadahmadliaqat-dot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jawad-ahmad-b66972378/)
+[![Email](https://img.shields.io/badge/Email-jawadahmadliaqat%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jawadahmadliaqat@gmail.com)
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting — open to projects and collaborations.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=90&section=footer" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by.</b><br>
+  Building in public — WordPress plugins, stores, and mobile networking.
 </p>
